@@ -3,7 +3,7 @@
 
 A responsive expense tracker using HTML, CSS , JS and Bootstrap. It lets you add, view, and delete your expenses and show your expenses visually using chart.
 
-https://github.com/SwatiAnand01/Project2.git
+https://swatianand01.github.io/Project2/
 
 ## Features
 - Add/Delete expenses
